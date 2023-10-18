@@ -1,4 +1,4 @@
-baseURL = 'https://faizk.com/'
+baseURL = 'https://blog.faizk.com/'
 languageCode = 'en-us'
 title = "Faiz's Blog"
 theme = 'PaperMod'

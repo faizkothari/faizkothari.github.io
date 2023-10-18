@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Faiz&#39;s Blog</title>
-    <link>https://faizk.com/</link>
+    <link>https://blog.faizk.com/</link>
     <description>Recent content on Faiz&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://faizk.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://blog.faizk.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
